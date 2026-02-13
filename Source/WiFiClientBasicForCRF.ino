@@ -4,7 +4,7 @@
 #include <ESP8266WiFiMulti.h>
 
 #ifndef STASSID
-#define STASSID "FATHACKCTF{Alien_Go_LMAO_Not_So_Hidden}"
+#define STASSID "ATHACKCTF{Alien_Go_LMAO_Not_So_Hidden}"
 #define STAPSK "thereisnospoon"
 #endif
 
