@@ -24,7 +24,6 @@ The client repeatedly connects and reboots every 30 seconds to generate observab
 
 * 2x ESP8266 boards (NodeMCU or similar)
 * 2x USB cables
-* 1x Wi-Fi adapter that supports monitor mode (for players)
 
 ---
 
