@@ -11,7 +11,7 @@ It prefers to remain hidden.
 ## Challenge Type
 
 - [X] **OFF**line
-- [] **ON**line
+- [ ] **ON**line
 
 ## Design Type
 
