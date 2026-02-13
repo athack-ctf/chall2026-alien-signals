@@ -5,7 +5,7 @@
 #include <ESP8266WebServer.h>
 
 #ifndef APSSID
-#define APSSID "FATHACKCTF{Alien_Go_LMAO_Not_So_Hidden}"
+#define APSSID "ATHACKCTF{Alien_Go_LMAO_Not_So_Hidden}"
 #define APPSK "thereisnospoon"
 #endif
 
