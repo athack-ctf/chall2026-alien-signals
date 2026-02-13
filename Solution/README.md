@@ -30,7 +30,7 @@ BSSID              STATION            PWR   Rate      Lost  Frames  Notes / Prob
 -----------------------------------------------------------------------------------
 F8:79:0A:7C:71:75  C0:F8:53:7C:34:C6   -1   1e - 0        0       1
 F8:34:5A:D7:E2:08  66:83:E7:CA:64:40  -61   0 - 1e       28      26
-4A:3F:DA:63:A1:6D  40:91:51:4E:BD:07  -45   0 - 1         0       5   FATHACKCTF{Alien_Go_LMAO_Not_So_Hidden}
+4A:3F:DA:63:A1:6D  40:91:51:4E:BD:07  -45   0 - 1         0       5   ATHACKCTF{Alien_Go_LMAO_Not_So_Hidden}
 
 ```
 ---
