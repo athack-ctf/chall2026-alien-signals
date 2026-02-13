@@ -24,7 +24,7 @@ It prefers to remain hidden.
 
 ## Description
 
-This challenge is designed to test participants’ understanding of how Wi-Fi networks operate at the 802.11 protocol level — specifically the misconception around hidden SSIDs.
+This challenge is designed to test participants’ understanding of how Wi-Fi networks operate at the 802.11 protocol level  specifically the misconception around hidden SSIDs.
 
 At a glance, the scenario appears simple: a device connects periodically to a Wi-Fi network that does not broadcast its name. The network seems invisible. However, the intuition behind the challenge is that “hidden” does not mean secret.
 
