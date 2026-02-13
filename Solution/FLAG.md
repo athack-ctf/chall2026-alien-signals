@@ -1,1 +1,0 @@
-FATHACKCTF{Alien_Go_LMAO_Not_So_Hidden}
