@@ -12,7 +12,6 @@ The lab consists of:
 
 * **ESP8266 #1 – Access Point (Hidden SSID)**
 * **ESP8266 #2 – Client Device (Auto-Reconnecting)**
-* **Attacker Machine – Wi-Fi Adapter in Monitor Mode**
 
 The AP creates a hidden Wi-Fi network.
 The client repeatedly connects and reboots every 30 seconds to generate observable Wi-Fi traffic.
