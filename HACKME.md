@@ -1,7 +1,5 @@
-Strange activity has been observed on the 802.11 spectrum.
-A small device appears briefly… connects to something unseen… then vanishes.
-Moments later, it returns. The pattern repeats.
+- Captain! We have reached asteroid #80211! But it's only a matter of minutes before the Aliens put their hands on it. Where should we plant our flag??!
+- Where, you ask? Plant it in landing site #221 before it's too late!
+- IT'S DONE CAPTAIN, THE ASTEROID IS OURS!!!
 
-The network it reaches for does not announce itself.
-It does not broadcast its name.
-It prefers to remain hidden.
+NOTE: Asteroid #80211 orbitates somewhere in the 2.130 quadrant of the MB region of the Concordia system.
