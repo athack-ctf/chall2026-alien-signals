@@ -38,7 +38,7 @@ flags:
 # Do not use any tag outside what's listed bellow
 tags:
   # Indicates that this challenge is deemed beginner-friendly
-  # - beginner
+  - beginner
   # Indicates that this challenge is sponsored
   # - sponsored
   # Indicates that this challenge is exclusive to a specific bracket
