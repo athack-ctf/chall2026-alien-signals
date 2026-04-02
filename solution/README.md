@@ -1,5 +1,8 @@
 ## Quick Solution Walkthrough
 
+### Participants writeups:
+- [Writeup by Arianne (team corquETS 2 poulETS)](https://arianne.dev/2026/03/10/athack2026/) 
+
 The network is configured with a **hidden SSID**, meaning it does not broadcast its name in beacon frames. However, hidden does **not** mean secret.
 
 When a client connects to a hidden network, it must include the SSID in its **association request**. This is where the flag is exposed.
