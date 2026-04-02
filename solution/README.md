@@ -1,7 +1,7 @@
-## Quick Solution Walkthrough
-
-### Participants writeups:
+## Participants writeups:
 - [Writeup by Arianne (team corquETS 2 poulETS)](https://arianne.dev/2026/03/10/athack2026/) 
+
+## Quick Solution Walkthrough
 
 The network is configured with a **hidden SSID**, meaning it does not broadcast its name in beacon frames. However, hidden does **not** mean secret.
 
